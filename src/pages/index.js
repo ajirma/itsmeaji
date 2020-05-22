@@ -45,7 +45,7 @@ export default class Index extends Component {
               <div>
                 <a
                   className="twitter-follow-button"
-                  href="https://twitter.com/ihwan_id"
+                  href="https://twitter.com/ajirza"
                   data-size="large"
                   data-show-screen-name="false"
                 >
