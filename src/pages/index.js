@@ -13,7 +13,7 @@ export default class Index extends Component {
     const popularPostEdges = this.props.data.popular.edges
     return (
       <Layout>
-        <Helmet title={`${config.siteTitle} – Associate Android Developer`} />
+        <Helmet title={`${config.siteTitle} – The Jurney Has Begun`} />
         <SEO />
         <div className="container">
           <div className="lead">
@@ -25,11 +25,11 @@ export default class Index extends Component {
               <img
                 src={photo}
                 className="lite-icon"
-                title="Hi i'm Ihwan"
-                alt="Hi i'm Ihwan"
+                title="Hi i'm Aji"
+                alt="Hi i'm Aji"
               />
             </a>
-            <h1>Hi, Saya Ihwan</h1>
+            <h1>Hi, Saya Aji</h1>
             <p>
                 Suka menulis dan sharing seputar IT di <a
                   href="https://www.youtube.com/channel/UCjntzibNSsjjIOh0HoP9vxw"
@@ -49,15 +49,15 @@ export default class Index extends Component {
                   data-size="large"
                   data-show-screen-name="false"
                 >
-                  Follow @ihwan_id
+                  Follow @ajirza
                 </a>
               </div>
               <div>
                 <GitHubButton
-                  href="https://github.com/ihwanid"
+                  href="https://github.com/ajirma"
                   data-size="large"
                   data-show-count="true"
-                  aria-label="Follow @ihwanid on GitHub"
+                  aria-label="Follow @ajirma on GitHub"
                 >
                   Follow
                 </GitHubButton>
