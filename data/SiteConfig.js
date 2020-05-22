@@ -4,7 +4,7 @@ const config = {
   siteTitleAlt: 'Ihwan ID',
   siteLogo: '/logos/logo.png',
   siteUrl: 'https://ihwan.id',
-  repo: 'https://github.com/ihwanid/ihwan.id',
+  repo: 'https://github.com/ajirma/itsmeaji/',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
   dateFormat: 'MMMM Do, YYYY',
